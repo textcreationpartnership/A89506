@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect relation of the horrible plot, and bloudy conspiracie, of the malignant party at Edmondbury in Suffolk, for the murdering of Mr. Lanceter and divers other eminent and well-affected persons, for opening of their shops upon Christmas-day. Also, the number of the conspirators, and the manner how they were appeased, with the losse on both sides. Together with a proclamation thereupon, and the apprehending of the chiefe ring-leaders, and how they are to be tryed the next sessions. January, 4. 1647. Printed and published, and to be presented to the wel-affested [sic] party, through-out each respective county within the kingdome of England.</title>
+            <author>L. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89506</idno>
+            <idno type="STC">Wing M54</idno>
+            <idno type="STC">Thomason E370_8</idno>
+            <idno type="STC">ESTC R201287</idno>
+            <idno type="EEBO-CITATION">99861810</idno>
+            <idno type="PROQUEST">99861810</idno>
+            <idno type="VID">160108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160108)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E370[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect relation of the horrible plot, and bloudy conspiracie, of the malignant party at Edmondbury in Suffolk, for the murdering of Mr. Lanceter and divers other eminent and well-affected persons, for opening of their shops upon Christmas-day. Also, the number of the conspirators, and the manner how they were appeased, with the losse on both sides. Together with a proclamation thereupon, and the apprehending of the chiefe ring-leaders, and how they are to be tryed the next sessions. January, 4. 1647. Printed and published, and to be presented to the wel-affested [sic] party, through-out each respective county within the kingdome of England.</title>
+                  <author>L. M.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Johnson,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 6: L.M.</note>
+                  <note>Annotation on Thomason copy: "Jan: 4th 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas --  England --  Early works to 1800.</term>
+               <term>Store hours --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160108:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <p>A PERFECT RELATJON OF THE Horrible Plot, and bloudy Conſpiracie, OF The Malignant party at EDMONDBURY in SUFFOLK, for the Murdering of M<hi rend="sup">r</hi>. LANCETER<g ref="char:punc">▪</g> and divers other eminent and well-affected Perſons, for opening of their Shops upon <hi>Chriſtmas-d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi>
+            </p>
+            <p>
+               <hi>ALSO,</hi> The number of the Conſpirators, and the manner how they were appeaſed. with the loſſe on both ſides. Together with a Proclamation thereupon, and the apprehending of the chiefe Ring-leaders, and how they are to be tryed the next <hi>SESSIONS.</hi>
+            </p>
+            <p>JANUARY, 4. 1647<g ref="char:punc">▪</g> 
+               <hi>Printed and Publiſhed, and to be preſent<g ref="char:EOLhyphen"/>ed to the Wel-affested Party, through<g ref="char:EOLhyphen"/>out each reſpective County within the Kingdome of</hi> England.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>I. Iohnſon,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160108:2"/>
+            <!-- PDF PAGE 12 -->
+            <pb n="1" facs="tcp:160108:2"/>
+            <!-- PDF PAGE 12 -->
+            <head>AN EXACT RELATION OF The great and bloudy Deſigne of the Malignant Party at <hi>Edmondsby</hi> in <hi>Suffolke.</hi>
+            </head>
+            <opener>
+               <salute>SJR,</salute>
+            </opener>
+            <p>THE opportunity which I have here embraced, and the good Tydings which I have to accompany it, hath moved me to ſet Pen to Paper, and to acquaint you with the horrid Conſpiracy and malicious Deſign of the Malignant Party at Edmondsby in Suffolk, againſt the People of
+<pb n="2" facs="tcp:160108:3"/>
+               <!-- PDF PAGE 13 -->God, and the Members of Jeſus Chriſt, who for their faithfulneſſe and zeal to the Goſpel of Chriſt, by endeavouring to maintain the puri<g ref="char:EOLhyphen"/>ty of Religion, with the loſſe and hazzard both of lives and fortunes, the inveterate malice &amp; miſchievous intentions of theſe ravening and devouring Spirits began to grow to ſome ma<g ref="char:EOLunhyphen"/>turity, and to appear in a moſt vild and bloudy ſhape; for theſe wicked Members of Sathan, and Enemies to God &amp; Religion, had ſo con<g ref="char:EOLhyphen"/>ſpired together, againſt the people of God, that they were reſolved to proſecute their Deſigne, in caſe that any of them ſhould preſume to o<g ref="char:EOLhyphen"/>pen their ſhops on Chriſtmas day, and to that end had prepared divers weapons for the exe<g ref="char:EOLhyphen"/>cuting of the ſame, the particulars, together with the manner of this Conſpiracy, I ſhal here preſent to the view of all good Chriſtians, as ſhall manifeſtly appear by theſe enſuing lines, viz.</p>
+            <p>In Edmondsbury in Suffolk God hath delive<g ref="char:EOLhyphen"/>red his people from a great and evill Deſigne, complotted by the Malignant Party in the Town, the manner thus:</p>
+            <p>The Prentices, and divers rude deboyſt Fel|,loweso the number of a hundred and fifty, or
+<pb n="3" facs="tcp:160108:3"/>
+               <!-- PDF PAGE 13 -->thereabouts, had liſted themſelvs together, and had gotten three Captains.</p>
+            <p>And this was their Deſign, to get together at the Croſſe (being the place appointed for to meet) on the 25 of this inſtant Moneth of De<g ref="char:EOLhyphen"/>cember (commonly called Chriſtmas day. And their reſolutions and determinations were, that whoſoever ſhould ſet open their Shops on the ſaid day, they were reſolved to pluck out the owners, and fire their houſes, and kill them if they reſiſted, and pull out their goods, and lay waſt and deſolate thoſe ſtately Buildings and dwelling Houſes, which are the grace and or<g ref="char:EOLhyphen"/>nament of the Town.</p>
+            <p>And the better to accompliſh their Deſign, the Conſpirators had provided great Clubs with great nailes croſſe the end of each Club, every Naile weighing a pound.</p>
+            <p>But their miſchievous Deſigne were diſco<g ref="char:EOLhyphen"/>vered before-hand, by ſome Prentices, to whom the Mutiniers came for their hands. And on the Wedneſday ſome ſtirred about it, for prevention of miſchiefe, and went to the Ma<g ref="char:EOLhyphen"/>giſtrates, and informed them thereof. Where<g ref="char:EOLhyphen"/>upon to prevent the gaeat danger that might thereby ariſe Divers of them having skil in the
+<pb n="4" facs="tcp:160108:4"/>
+               <!-- PDF PAGE 14 -->Law, found it would bee upon themſelves if they ſuffered ſuch a thing to be therefore they ſent for divers the day folowing of the conſpi<g ref="char:EOLhyphen"/>rators, and laid the Law to them, and bound them over to the Seaſſions.</p>
+            <p>And on Chriſtmas day, moſt of the chiefe Magiſtrates, and many conſtables, and other Officers aſſembled together.</p>
+            <p>Afterwards there were about thirty or forty about Mr. Lanſeters dore (in the place called the Cook-row, his ſhop bring open.</p>
+            <p>And there Proclamation was made, and in ſeverall places more, that thoſe which were not in their own houſes with in half an houre, ſhould be impriſoned: And ſome were laid hold on, and frighted; ſo that there was onely a litle hurt done, two men being wounded be<g ref="char:EOLhyphen"/>yond the horſe-market towards the end of the Town; for when the wel-affected Party be<g ref="char:EOLhyphen"/>gan to aſſemble themſelvs together, for the ap<g ref="char:EOLhyphen"/>peaſing of theſe tumultuous Villians, ſome of them made at them with their clubs, &amp; woun<g ref="char:EOLhyphen"/>ded theſe two, but its hoped not mortal, though indeed (as yet) they ſeeme very dangerous, by reaſon of the deepneſſe of the wounds, and the feſtering of them.</p>
+            <p>
+               <pb n="5" facs="tcp:160108:4"/>
+               <!-- PDF PAGE 14 -->
+But after a ſhort time, theſe Viperous Raſcals were apeaſed, and the ſtreets cleanſed on theſe Vermine; ſo that their-bloudy Deſignes were fruſtrated, and miſchievous and machavilian Plot diſcovered:</p>
+            <p>For the Great God of Heaven would not ſuffer his People to bee left as a prey unto the mercileſſe Malignants teeth.</p>
+            <p>And it is to be minded, that above all, they aymed at Mr. Lanceter, who was not poſſeſſed with fear of them, but quietly waited upon the Lord, with expectation of Deliverance from the hands of God, which he had, and was pre<g ref="char:EOLhyphen"/>ſerved; though hee uſed no outward meanes to attain it himſelf.</p>
+            <p>But this the Lord did to give his People more experience of his goodneſſe; and hee is able to do much more, for his hand is never ſhortned.</p>
+            <p>And therefore let all the Godly Saints, and praying People, according to the Direction of the Spirit of Chriſt, from the conſideration and experience of Gods former loving kindneſſes, and preſervations, reſt upon him for future times.</p>
+            <p>Thus having given you a briefe and exact
+<pb n="6" facs="tcp:160108:5"/>
+               <!-- PDF PAGE 15 -->Relation of the great and bloudy conſpiracie complotted by the Malignant Party at Ed<g ref="char:EOLhyphen"/>monby in Suffolke, I ſhall humbly take my leave, and remaine</p>
+            <closer>
+               <signed>Your affectionate Servant, <hi>L. M.</hi>
+               </signed>
+               <dateline>Edmondsbury <date>Ian. 1. 1647.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>This Relation is confirmed by very good Hands, and at the requeſt of many e<g ref="char:EOLhyphen"/>minent, and wel-affected Perſons printed, and preſented to the publike view of all the Free-born Subjects of <hi>England.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
